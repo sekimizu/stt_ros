@@ -6,12 +6,8 @@ This is the ROS package for Google STT feature.
 ## REQUIREMENTS
 - Ubuntu 16.04
 - ROS Kinetic Kame
-- Google API
+- Google API, Google Auth Lib
 ```
-sudo pip install google-api-python-client
-
-OR
-
 sudo pip install -r requirements.txt
 ```
 
